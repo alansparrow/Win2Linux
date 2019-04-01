@@ -1,0 +1,1 @@
+ar -rsc  "/home/baotrungtn/projects/LinuxLibA/bin/x64/Debug/libLinuxLibA.a" /home/baotrungtn/projects/LinuxLibA/obj/x64/Debug/MathFuncs.o

@@ -1,0 +1,9 @@
+﻿  Cleaning remote project directory
+  Validating sources
+  Copying sources remotely to '172.25.111.88'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  MathFuncs.cpp
+  Archiving objects
+  LinuxLibA.vcxproj -> D:\Exp\C++\Win2Linux\LinuxLibA\bin\x64\Debug\libLinuxLibA.a

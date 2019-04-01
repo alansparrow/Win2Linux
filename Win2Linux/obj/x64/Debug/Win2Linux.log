@@ -1,0 +1,9 @@
+﻿  Cleaning remote project directory
+  Validating sources
+  Copying sources remotely to '172.25.111.88'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  main.cpp
+  Linking objects
+  Win2Linux.vcxproj -> D:\Exp\C++\Win2Linux\Win2Linux\bin\x64\Debug\Win2Linux.out
